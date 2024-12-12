@@ -1,1 +1,1 @@
-# setup-control-plane.sh
+# setup-control-plane
